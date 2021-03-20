@@ -23,3 +23,5 @@ Suggests:
     rmarkdown
 Config/testthat/edition: 3
 VignetteBuilder: knitr
+URL: https://github.com/ostrichsupreme/testgolem
+BugReports: https://github.com/ostrichsupreme/testgolem/issues
